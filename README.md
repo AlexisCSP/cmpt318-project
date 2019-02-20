@@ -29,7 +29,7 @@ Install according to their instructions.
 Next, clone the project repository onto your computer.
 
 ```
-$ git clone https://csil-git1.cs.surrey.sfu.ca/alizardo/cmpt318-project.git
+$ git clone git@github.com:AlexisCSP/cmpt318-project.git
 ```
 
 Move into the project folder you just cloned and run:
